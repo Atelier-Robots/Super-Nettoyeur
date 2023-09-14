@@ -15,14 +15,14 @@ Transformer le Super Nettoyeur en un héros capable d'ouvrir et fermer sa pince 
 
 Avant de plonger dans le monde fascinant du codage, nous allons d'abord construire notre Super Nettoyeur. C'est comme construire ton propre super-héros ! 🦸‍♂️
 
-**Partie 1 : La Base**
-[La base](https://assets.education.lego.com/v3/assets/blt293eea581807678a/bltdb108d96005a741c/5ec96f33e014445192ea99e2/supercleaup-bi-pdf-book3of3.pdf?locale=fr-fr) est comme les pieds de ton Super Nettoyeur. C'est ce qui lui permet de rester stable pendant qu'il sauve le monde (ou ta chambre) !
+[**Partie 1 : La Base**](https://assets.education.lego.com/v3/assets/blt293eea581807678a/bltdb108d96005a741c/5ec96f33e014445192ea99e2/supercleaup-bi-pdf-book3of3.pdf?locale=fr-fr)
+La base est comme les pieds de ton Super Nettoyeur. C'est ce qui lui permet de rester stable pendant qu'il sauve le monde (ou ta chambre) !
 
-**Partie 2 : La Pince Flexible**
-[La pince flexible](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt109d7e1105803297/5ec96f592faa6a256062b52f/supercleaup-bi-pdf-book2of3.pdf?locale=fr-fr) est comme la main de ton Super Nettoyeur. Elle peut attraper des objets de toutes formes et tailles. C'est un super pouvoir très utile !
+[**Partie 2 : La Pince Flexible**](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt109d7e1105803297/5ec96f592faa6a256062b52f/supercleaup-bi-pdf-book2of3.pdf?locale=fr-fr)
+La pince flexible c'est la main de ton Super Nettoyeur. Elle peut attraper des objets de toutes formes et tailles. C'est un super pouvoir très utile !
 
-**Partie 3 : La Pince Solide**
-[La pince solide](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt7f0d32ef5ad51e71/5ec96f446676f37c355f9599/supercleaup-bi-pdf-book1of3.pdf?locale=fr-fr) est comme l'autre main de ton Super Nettoyeur. Elle est forte et robuste, parfaite pour attraper des objets lourds. Un autre super pouvoir à ajouter à sa liste !
+[**Partie 3 : La Pince Solide**](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt7f0d32ef5ad51e71/5ec96f446676f37c355f9599/supercleaup-bi-pdf-book1of3.pdf?locale=fr-fr)
+La pince solide est la deuxième main de ton Super Nettoyeur. Elle est forte et robuste, parfaite pour attraper des objets lourds. Un autre super pouvoir à ajouter à sa liste !
 
 Suis les plans de montage pour chaque partie. C'est comme un puzzle, chaque pièce a sa place. Et n'oublie pas, chaque super-héros a besoin de son équipement avant de pouvoir sauver le monde. Alors, commençons la construction ! 🛠️🧱
 
