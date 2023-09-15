@@ -31,14 +31,65 @@ Suis les plans de montage pour chaque partie. C'est comme un puzzle, chaque piè
 
 ## Instructions
 
-1. Allume ton ordinateur et ouvre le logiciel Spike. C'est là que la magie commence ! 🎩💻
-2. Connecte ton Super Nettoyeur à l'ordinateur. Il est prêt pour l'aventure ! 🚀
-3. Crée un nouveau projet dans Spike. C'est comme un nouveau chapitre dans l'histoire de ton robot.
-4. Ajoute un bloc "quand le bouton est pressé". C'est le signal pour ton Super Nettoyeur d'entrer en action ! 🚦
-5. Ajoute un bloc "ouvrir la pince" sous le bloc "quand le bouton est pressé". C'est comme si tu disais à ton robot "Attrape ça !" 🖐
-6. Ajoute un autre bloc "quand le bouton est pressé" et place un bloc "fermer la pince" en dessous. C'est comme si tu disais à ton robot "Lâche ça !" ✊
-7. Teste ton programme en appuyant sur le bouton de ton robot. La pince devrait s'ouvrir et se fermer. Si ça marche, ton Super Nettoyeur est prêt pour l'aventure ! 🎉
-8. Si ça ne fonctionne pas, pas de panique ! Vérifie ton code et essaie à nouveau. Même les super-héros ont parfois besoin de quelques essais. 💪
+  ### 1. Préparation du terrain 🏁
+  
+  Allume ton ordinateur et ouvre le logiciel Spike. C'est là que la magie commence ! 🎩💻
+
+  <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/e9ef3ae8-daef-45e1-8c39-a09e15e94c5d" width="500">
+
+  ### 2. Création de l'aventure 📖 
+
+  Crée un nouveau projet dans Spike choisis l'option `Blocs de mots`. C'est comme un nouveau chapitre dans l'histoire de ton robot.
+
+  <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/3c85d4b3-4b27-4f6f-8679-85266e3ef5b9" width="500">
+
+  ### 3. Connexion du héros 🚀
+  
+  Connecte ton Super Nettoyeur à l'ordinateur en cliquant sur le bouton connecter et en suivant les étapes de connexion. Il est prêt pour l'aventure ! 🚀
+  
+  <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/67d2e5ae-15ed-49a1-8123-89e643b83a27" width="500">
+
+  ### Signal d'action 🚦
+
+  ### 4. Commande de lâche ✊
+
+  Ajoute un bloc **"Quand le bouton E est pressé"**. C'est le signal pour ton Super Nettoyeur d'entrer en action ! 🚦
+      
+  - Quand le bouton **E** est pressé, Démarrer le moteur **A** à 100% de puissance !
+  - "Quand le bouton E est pressé". C'est comme si tu disais à ton robot "Attrape ça !" ✊
+  - <details>
+    <summary>Avoir de l'aide</summary>
+        Tu dois ajouter ces blocs pour permettre à la pince de se fermer lorsque tu appuies sur le bouton 
+        <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/f9ea0abf-ba5b-44d7-8163-ab2d57fb78bd"  width="500">
+  </details>
+      
+  ### 5. Commande d'attrape 🖐
+
+  Ajoute un autre bloc **"quand le bouton E est relâché"** et place un bloc permettant d'ouvrir la pince en dessous. Nous ajoutons une deuxième instruction à notre Super Nettoyeur
+
+  - Quand le bouton **E** est relâché, Tourner le moteur **A** à gauche pendant 0.5 secondes
+  - "Quand le bouton **E** est relâché", C'est comme si tu disais à ton robot "Lâche ça !" 🖐
+  - <details>
+    <summary>Avoir de l'aide</summary>
+        Tu dois ajouter ces blocs pour permettre à la pince de s'ouvrir lorsque tu relâches le bouton
+        <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/271d0f41-f51d-4b58-834e-d515d81be7df" width="500">
+  </detail>
+
+  ### 6. Lancement du code dans le robot 🚀
+
+ Maintenant que tu as créé ton code, il est temps de le lancer dans ton Super Nettoyeur. C'est comme donner à ton super-héros ses super-pouvoirs !
+
+ Appuie sur le bouton jaune pour lancer le code.
+     
+ <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/5c049c92-821f-459a-b95b-885b6a9b602c"  width="200">
+
+  ### 7. Test de super-pouvoirs 🎉
+
+ Teste ton programme en appuyant sur le bouton de ton robot. La pince devrait s'ouvrir et se fermer. Si ça marche, ton Super Nettoyeur est prêt pour l'aventure ! 🎉
+
+  ### 9. Pas de panique, on réessaie 💪
+ 
+ Si ça ne fonctionne pas, pas de panique ! Vérifie ton code et essaie à nouveau. Même les super-héros ont parfois besoin de quelques essais. 💪
 
 
 ## Aller plus loin
