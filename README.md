@@ -49,7 +49,7 @@ Suis les plans de montage pour chaque partie. C'est comme un puzzle, chaque piè
   
   <img src="https://github.com/G404-Atelier-Robots/Super-Nettoyeur/assets/62702495/67d2e5ae-15ed-49a1-8123-89e643b83a27" width="500">
 
-  ### Signal d'action 🚦
+  ### **Signal d'action 🚦**
 
   ### 4. Commande de lâche ✊
 
